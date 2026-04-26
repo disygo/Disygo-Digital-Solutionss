@@ -1,0 +1,9 @@
+{
+  "name": "Disygo Digital Solutions",
+  "description": "A results-driven digital marketing agency focused on building strong digital presence and generating measurable growth. Features 3D animations and premium dark mode design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "threejs",
+    "framer-motion"
+  ]
+}
